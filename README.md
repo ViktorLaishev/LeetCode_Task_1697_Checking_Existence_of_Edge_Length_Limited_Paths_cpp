@@ -8,3 +8,4 @@ Output: [false,true]
 Explanation: The above figure shows the given graph. Note that there are two overlapping edges between 0 and 1 with distances 2 and 16.
 For the first query, between 0 and 1 there is no path where each distance is less than 2, thus we return false for this query.
 For the second query, there is a path (0 -> 1 -> 2) of two edges with distances less than 5, thus we return true for this query.
+Input: n = 5, edgeList = [[0,1,10],[1,2,5],[2,3,9],[3,4,13]], queries = [[0,4,14],[1,4,13]]
