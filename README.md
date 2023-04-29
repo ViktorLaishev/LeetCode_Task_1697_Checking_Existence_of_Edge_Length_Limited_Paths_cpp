@@ -5,3 +5,4 @@ Return a boolean array answer, where answer.length == queries.length and the jth
 Example 1:
 Input: n = 3, edgeList = [[0,1,2],[1,2,4],[2,0,8],[1,0,16]], queries = [[0,1,2],[0,2,5]]
 Output: [false,true]
+Explanation: The above figure shows the given graph. Note that there are two overlapping edges 
