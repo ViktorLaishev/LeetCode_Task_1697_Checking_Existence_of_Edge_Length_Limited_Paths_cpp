@@ -1,4 +1,4 @@
-class DSU {
+class DSU { 
     public:
     vector<int> Parent, Rank; 
     DSU(int n) {
