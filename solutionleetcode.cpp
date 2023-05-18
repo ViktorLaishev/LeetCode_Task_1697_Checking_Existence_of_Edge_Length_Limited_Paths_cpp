@@ -1,5 +1,5 @@
 class DSU { 
-    public:
+    public: 
     vector<int> Parent, Rank; 
     DSU(int n) {
         Parent.resize(n);
